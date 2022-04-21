@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a school project :p**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **SwiftUI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
