@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Boris</h1>
 <h3 align="center">A third year IT student studying in Metropolia University of applied science.</h3>
 
-- 🔭 I’m currently working on a ****
+- 🔭 I’m currently working on a **Running App**
 
 - 🌱 I’m currently studying **Kotlin - Jetpack Compose**
 
