@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Boris</h1>
 <h3 align="center">A third year IT student studying in Metropolia University of applied science.</h3>
 
-- 🔭 I’m currently working on a **Running App**
+- 🔭 I’m currently working on a **Mobile project**
 
-- 🌱 I’m currently studying **Kotlin - Jetpack Compose**
+- 🌱 I’m currently studying **React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
