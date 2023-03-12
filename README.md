@@ -5,9 +5,10 @@
 
 - 🌱 I’m currently studying **MIPS**
 
-<h3 align="left">Interests:</h3>
 
-- ✨ **UIUX**
+<h3 align="left">Passionate in:</h3>
+
+- ✨ **UI/UX**
 
 - ✨ **Frontend**
 
