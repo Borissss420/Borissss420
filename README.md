@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently exchanging in **HKUST**
 
-- 🌱 I’m currently studying **MIPS**
+- 🌱 I’m currently studying **MIPS Assembly Language**
 
 
 <h3 align="left">Passionate in:</h3>
