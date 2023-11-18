@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Borissss</h1>
 <h3 align="center">A fourth year IT student studying in Metropolia University of applied science.</h3>
 
-- 🌱 I came from **Hong Kong**
+- 🌱 I am from **Hong Kong** and studying in **Finland**
 
-- 🔭 Major in **Software Engineering**
+- 🔭 Major in **Mobile Solution**
 
 <h3 align="left">Passionate in:</h3>
 
