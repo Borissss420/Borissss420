@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Borissss</h1>
-<h3 align="center">A fourth year IT student studying in Metropolia University of applied science.</h3>
+<h3 align="center">A recent IT graduate from Metropolia University of applied science.</h3>
 
 - 🌱 I am from **Hong Kong** and studying in **Finland**
 
